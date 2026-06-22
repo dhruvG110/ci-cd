@@ -1,0 +1,1 @@
+print("Good design is good business.")
